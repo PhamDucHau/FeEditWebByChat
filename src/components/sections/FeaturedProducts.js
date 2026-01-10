@@ -23,10 +23,10 @@ const FeaturedProducts = () => {
               className="product-card-link"
             >
               <div className="product-card">
-                <div className="product-image">{product.image}</div>
+                <div className="product-image" style={{backgroundColor: '#4CAF50', color: '#fff'}}>{product.image}</div>
                 <h3 className="product-name">{product.name}</h3>
                 <p className="product-price">{product.price}</p>
-                <button className="product-btn">Xem Chi Tiết</button>
+                <button className="product-btn" style={{backgroundColor: '#4CAF50', color: '#fff'}}>Xem Chi Tiết</button>
               </div>
             </Link>
           ))}
@@ -37,4 +37,3 @@ const FeaturedProducts = () => {
 };
 
 export default FeaturedProducts;
-
