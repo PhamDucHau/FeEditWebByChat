@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-container">
         <div className="footer-section">
-          <h3>Về Chúng Tôis giúp tôi</h3>
+          <h3>Về Chúng Tôi</h3>
           <p>Nike Store - Địa chỉ uy tín cho các sản phẩm giày Nike chính hãng với chất lượng đảm bảo.</p>
         </div>
         <div className="footer-section">
