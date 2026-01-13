@@ -8,6 +8,8 @@ const FeaturedProducts = () => {
     { id: 2, name: 'Nike Air Force 1', price: '2,800,000đ', image: '👟' },
     { id: 3, name: 'Nike Dunk Low', price: '3,200,000đ', image: '👟' },
     { id: 4, name: 'Nike Air Jordan 1', price: '4,500,000đ', image: '👟' },
+    { id: 5, name: 'Nike React Infinity Run', price: '3,900,000đ', image: '👟' },
+    { id: 6, name: 'Nike Blazer Mid', price: '2,700,000đ', image: '👟' },
   ];
 
   return (

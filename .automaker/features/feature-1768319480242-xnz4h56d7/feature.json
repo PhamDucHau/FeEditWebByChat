@@ -1,0 +1,37 @@
+{
+  "category": "Uncategorized",
+  "description": "Thêm giúp tôi 2 card giày nữa cho đủ 6 card nhé, tên giày thì bạn chọn đại giúp tôi nhé",
+  "title": "Thêm 2 item vào Sản Phẩm Nổi Bật",
+  "images": [],
+  "imagePaths": [
+    {
+      "id": "img-1768319434814-sfpdauuqm",
+      "path": "/Users/haupham/Desktop/test-solution/FeEditWebByChat/.automaker/features/feature-1768319480242-xnz4h56d7/images/pasted-image-2026-01-13T15-50-34-777Z-1768319434803.png",
+      "filename": "pasted-image-2026-01-13T15-50-34-777Z.png",
+      "mimeType": "image/png"
+    }
+  ],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "reasoningEffort": "none",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "workMode": "current",
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1768319480242-xnz4h56d7",
+  "descriptionHistory": [
+    {
+      "description": "Thêm giúp tôi 2 card giày nữa cho đủ 6 card nhé, tên giày thì bạn chọn đại giúp tôi nhé",
+      "timestamp": "2026-01-13T15:51:20.324Z",
+      "source": "initial"
+    }
+  ],
+  "startedAt": "2026-01-13T15:51:22.201Z",
+  "updatedAt": "2026-01-13T15:52:11.163Z",
+  "justFinishedAt": "2026-01-13T15:52:11.163Z"
+}

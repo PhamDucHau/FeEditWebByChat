@@ -31,3 +31,15 @@ usageStats:
 - **Rejected:** Alternative of changing route path would break existing bookmarks and deep links to home page
 - **Trade-offs:** Easier: UI updates without route refactoring. Harder: Must maintain mapping between display text and actual routes when multiple text variants exist
 - **Breaking if changed:** If NavLink component were replaced with plain anchor tags, the 'end' prop would be lost, breaking active state styling on exact path matches
+
+#### [Pattern] Product data duplication across multiple sources (products.js and FeaturedProducts.js inline array) (2026-01-13)
+- **Problem solved:** Featured products were hardcoded in component while a master products list existed separately
+- **Why this works:** Quick implementation approach for static featured section, but creates maintenance burden
+- **Trade-offs:** Simpler initial implementation vs. harder to maintain consistency; changes in products.js don't auto-reflect in featured section
+
+### Fixed grid layout assumption (3 columns x 2 rows for 6 cards) based on component implementation (2026-01-13)
+- **Context:** Implementation notes assume grid will auto-format 6 cards as 3x2 layout
+- **Why:** Likely CSS grid with 3-column layout already defined, natural scaling from 4 to 6 items
+- **Rejected:** Could validate actual CSS grid rules in component before assuming layout behavior
+- **Trade-offs:** Simpler to add items if grid already supports it, but untested assumption that 6 items won't break responsive design
+- **Breaking if changed:** If responsive breakpoints are not properly tested, layout could break on tablet/mobile (might show unexpected wrap or overflow)
