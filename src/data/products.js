@@ -1,0 +1,132 @@
+// Dữ liệu sản phẩm mẫu
+export const products = [
+  {
+    id: 1,
+    name: 'Nike Air Max 270',
+    price: 3500000,
+    originalPrice: 4200000,
+    image: '👟',
+    category: 'running',
+    sizes: [38, 39, 40, 41, 42, 43, 44],
+    colors: ['Đen', 'Trắng', 'Xanh Navy'],
+    description: 'Đôi giày chạy bộ với công nghệ Air Max đệm khí tối đa. Thiết kế hiện đại với upper mesh thoáng khí và đế cao su bền bỉ.',
+    features: ['Công nghệ Air Max', 'Mesh thoáng khí', 'Đế cao su bền bỉ', 'Phù hợp chạy bộ'],
+    inStock: true,
+    rating: 4.8,
+    reviews: 124
+  },
+  {
+    id: 2,
+    name: 'Nike Air Force 1',
+    price: 2800000,
+    originalPrice: null,
+    image: '👟',
+    category: 'lifestyle',
+    sizes: [38, 39, 40, 41, 42, 43, 44, 45],
+    colors: ['Trắng', 'Đen', 'Xám'],
+    description: 'Classic silhouette với thiết kế đơn giản nhưng đầy tính biểu tượng. Phù hợp cho mọi dịp, từ đi làm đến đi chơi.',
+    features: ['Thiết kế classic', 'Chất liệu da cao cấp', 'Đế đúc nguyên khối', 'Timeless design'],
+    inStock: true,
+    rating: 4.9,
+    reviews: 256
+  },
+  {
+    id: 3,
+    name: 'Nike Dunk Low',
+    price: 3200000,
+    originalPrice: 3800000,
+    image: '👟',
+    category: 'skateboarding',
+    sizes: [38, 39, 40, 41, 42, 43, 44],
+    colors: ['Đỏ', 'Xanh', 'Vàng'],
+    description: 'Đôi giày skateboarding với thiết kế retro và màu sắc nổi bật. Đế chống trượt và độ bền cao.',
+    features: ['Thiết kế retro', 'Đế chống trượt', 'Màu sắc nổi bật', 'Bền bỉ'],
+    inStock: true,
+    rating: 4.7,
+    reviews: 189
+  },
+  {
+    id: 4,
+    name: 'Nike Air Jordan 1',
+    price: 4500000,
+    originalPrice: null,
+    image: '👟',
+    category: 'basketball',
+    sizes: [39, 40, 41, 42, 43, 44, 45],
+    colors: ['Đỏ Đen', 'Trắng Đỏ', 'Xanh'],
+    description: 'Đôi giày bóng rổ huyền thoại với lịch sử hơn 30 năm. Thiết kế cao cổ cổ điển với công nghệ Air-Sole.',
+    features: ['Thiết kế cao cổ', 'Công nghệ Air-Sole', 'Lịch sử huyền thoại', 'Phù hợp bóng rổ'],
+    inStock: true,
+    rating: 4.9,
+    reviews: 342
+  },
+  {
+    id: 5,
+    name: 'Nike React Infinity Run',
+    price: 3900000,
+    originalPrice: 4500000,
+    image: '👟',
+    category: 'running',
+    sizes: [38, 39, 40, 41, 42, 43, 44],
+    colors: ['Đen', 'Xanh Navy', 'Xám'],
+    description: 'Đôi giày chạy với công nghệ React foam siêu đàn hồi. Giảm chấn thương và tăng hiệu suất chạy.',
+    features: ['Công nghệ React', 'Giảm chấn thương', 'Siêu đàn hồi', 'Tăng hiệu suất'],
+    inStock: true,
+    rating: 4.6,
+    reviews: 167
+  },
+  {
+    id: 6,
+    name: 'Nike Blazer Mid',
+    price: 2700000,
+    originalPrice: null,
+    image: '👟',
+    category: 'lifestyle',
+    sizes: [38, 39, 40, 41, 42, 43, 44],
+    colors: ['Trắng', 'Đen', 'Kem'],
+    description: 'Thiết kế mid-top với phong cách retro. Phù hợp cho phong cách streetwear và casual.',
+    features: ['Thiết kế mid-top', 'Phong cách retro', 'Streetwear', 'Versatile'],
+    inStock: true,
+    rating: 4.5,
+    reviews: 98
+  },
+  {
+    id: 7,
+    name: 'Nike Zoom Pegasus',
+    price: 3300000,
+    originalPrice: 3900000,
+    image: '👟',
+    category: 'running',
+    sizes: [38, 39, 40, 41, 42, 43, 44],
+    colors: ['Đen', 'Xanh', 'Hồng'],
+    description: 'Đôi giày chạy với công nghệ Zoom Air. Nhẹ, nhanh và thoải mái cho mọi cự ly chạy.',
+    features: ['Zoom Air', 'Nhẹ và nhanh', 'Thoải mái', 'Mọi cự ly'],
+    inStock: true,
+    rating: 4.7,
+    reviews: 201
+  },
+  {
+    id: 8,
+    name: 'Nike SB Dunk High',
+    price: 3400000,
+    originalPrice: null,
+    image: '👟',
+    category: 'skateboarding',
+    sizes: [39, 40, 41, 42, 43, 44],
+    colors: ['Đen Trắng', 'Đỏ', 'Xanh'],
+    description: 'Đôi giày skate với thiết kế high-top và đệm tốt hơn. Phù hợp cho môn trượt ván chuyên nghiệp.',
+    features: ['High-top', 'Đệm tốt', 'Chuyên nghiệp', 'Durable'],
+    inStock: true,
+    rating: 4.8,
+    reviews: 145
+  }
+];
+
+export const categories = [
+  { id: 'all', name: 'Tất Cả' },
+  { id: 'running', name: 'Chạy Bộ' },
+  { id: 'lifestyle', name: 'Lifestyle' },
+  { id: 'basketball', name: 'Bóng Rổ' },
+  { id: 'skateboarding', name: 'Skateboarding' }
+];
+
