@@ -1,0 +1,30 @@
+{
+  "category": "Uncategorized",
+  "description": "Cho các button chuyển sang màu vàng đen giúp tôi",
+  "title": "",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus-4.5",
+  "thinkingLevel": "none",
+  "reasoningEffort": "none",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "workMode": "current",
+  "titleGenerating": false,
+  "status": "completed",
+  "id": "feature-1769966618684-n2mhg8cfh",
+  "descriptionHistory": [
+    {
+      "description": "Cho các button chuyển sang màu vàng đen giúp tôi",
+      "timestamp": "2026-02-01T17:23:38.753Z",
+      "source": "initial"
+    }
+  ],
+  "startedAt": "2026-02-01T17:23:47.053Z",
+  "updatedAt": "2026-02-01T17:23:50.852Z",
+  "justFinishedAt": "2026-02-01T17:23:50.852Z"
+}
