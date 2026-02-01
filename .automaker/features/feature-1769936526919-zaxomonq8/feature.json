@@ -1,0 +1,31 @@
+{
+  "category": "Uncategorized",
+  "description": "Sửa text \"Bảng tổng quan\" ở menu header thành \"Trang chủ\"",
+  "title": "",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "sonnet-4.5",
+  "thinkingLevel": "none",
+  "reasoningEffort": "none",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "workMode": "current",
+  "titleGenerating": false,
+  "status": "completed",
+  "id": "feature-1769936526919-zaxomonq8",
+  "descriptionHistory": [
+    {
+      "description": "Sửa text \"Bảng tổng quan\" ở menu header thành \"Trang chủ\"",
+      "timestamp": "2026-02-01T09:02:07.078Z",
+      "source": "initial"
+    }
+  ],
+  "branchName": "main",
+  "startedAt": "2026-02-01T09:02:17.063Z",
+  "updatedAt": "2026-02-01T09:02:21.115Z",
+  "justFinishedAt": "2026-02-01T09:02:21.115Z"
+}
