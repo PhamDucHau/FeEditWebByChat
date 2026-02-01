@@ -1,0 +1,30 @@
+{
+  "category": "Uncategorized",
+  "description": "Sửa text “Bảng tổng quan” ở menu header thành “Trang chủ”",
+  "title": "Sửa text menu header",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "sonnet-4.5",
+  "thinkingLevel": "none",
+  "reasoningEffort": "none",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "workMode": "current",
+  "titleGenerating": false,
+  "status": "completed",
+  "id": "feature-1769936219844-4gbcpej39",
+  "descriptionHistory": [
+    {
+      "description": "Sửa text “Bảng tổng quan” ở menu header thành “Trang chủ”",
+      "timestamp": "2026-02-01T08:57:00.006Z",
+      "source": "initial"
+    }
+  ],
+  "startedAt": "2026-02-01T08:57:11.725Z",
+  "updatedAt": "2026-02-01T08:57:16.071Z",
+  "justFinishedAt": "2026-02-01T08:57:16.071Z"
+}
