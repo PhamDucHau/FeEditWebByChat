@@ -5,7 +5,11 @@ relevantTo: [error, bug, fix, issue, problem]
 importance: 0.9
 relatedFiles: []
 usageStats:
+<<<<<<< HEAD
   loaded: 10
+=======
+  loaded: 9
+>>>>>>> 730bb9493174c4ab5e423bab7fe4ebfd53c5afa4
   referenced: 0
   successfulFeatures: 0
 ---

@@ -15,7 +15,11 @@
   "dependencies": [],
   "workMode": "current",
   "titleGenerating": false,
+<<<<<<< HEAD
   "status": "completed",
+=======
+  "status": "verified",
+>>>>>>> 730bb9493174c4ab5e423bab7fe4ebfd53c5afa4
   "id": "feature-1768304048287-ilmzfrgu6",
   "descriptionHistory": [
     {
