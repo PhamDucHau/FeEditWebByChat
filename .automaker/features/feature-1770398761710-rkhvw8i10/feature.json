@@ -1,0 +1,30 @@
+{
+  "category": "Uncategorized",
+  "description": "Sửa text \"Sản Phẩm Nổi Bật\" thành \"Sản Phẩm Nổi Bật nhất\" giúp tôi ở trang home nhé",
+  "title": "Sửa text",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "reasoningEffort": "none",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "workMode": "current",
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1770398761710-rkhvw8i10",
+  "descriptionHistory": [
+    {
+      "description": "Sửa text \"Sản Phẩm Nổi Bật\" thành \"Sản Phẩm Nổi Bật nhất\" giúp tôi ở trang home nhé",
+      "timestamp": "2026-02-06T17:26:01.913Z",
+      "source": "initial"
+    }
+  ],
+  "startedAt": "2026-02-06T17:26:52.443Z",
+  "updatedAt": "2026-02-06T17:27:23.076Z",
+  "justFinishedAt": "2026-02-06T17:27:23.076Z"
+}
