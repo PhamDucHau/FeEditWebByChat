@@ -12,7 +12,7 @@ const Header = () => {
           <h1>NIKE</h1>
         </Link>
         <nav className="nav">
-          <NavLink to="/" end>Bảng tổng quan</NavLink>
+          <NavLink to="/" end>Trang chủ</NavLink>
           <NavLink to="/products">Sản Phẩm</NavLink>
           <NavLink to="/about">Giới Thiệu</NavLink>
           <NavLink to="/contact">Liên Hệ</NavLink>
