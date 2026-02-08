@@ -15,7 +15,7 @@ const FeaturedProducts = () => {
   return (
     <section id="products" className="featured-products">
       <div className="section-container">
-        <h2 className="section-title">Sản Phẩm Nổi Bật nhất</h2>
+        <h2 className="section-title">Sản Phẩm Nổi Bật</h2>
         <p className="section-subtitle">Khám phá những đôi giày Nike được yêu thích nhất</p>
         <div className="products-grid">
           {products.map((product) => (
